@@ -1,0 +1,16 @@
+{
+	  "name": "groupdocs/groupdocs-assembly",
+	  "description": "The GroupDocs SilverStripe Assembly plugin lets you collect data to automatically create new documents online by embedding GroupDocs Assembly questionnaires.",
+	  "type": "silverstripe-module",
+	  "homepage": "http://groupdocs.com/apps/assembly",
+	  "keywords": ["silverstripe", "assembly"],
+	  "license": "BSD-3-Clause",
+	  "authors": [
+	    {"name": "Marketplace Team","email": "support@groupdocs.com"}
+	  ],	  
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  }
+	}	
+		
